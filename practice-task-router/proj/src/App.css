@@ -1,0 +1,22 @@
+.home{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 25px;
+padding: 10px 30px;
+  border: 1px solid black;
+  background-color: white;
+  margin: 5px;
+
+}
+body{
+  background-color: tomato;
+}
+.main-div{
+  margin:30px 40px;
+
+}
+.link-box{
+  width: 100px;
+  height: 100px;
+}
